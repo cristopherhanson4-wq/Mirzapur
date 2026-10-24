@@ -1,0 +1,910 @@
+{
+  "businesses": [
+    {
+      "id": "bm-biz-01",
+      "nameBn": "ভাওয়াল মিষ্টি মুখ ও ঐতিহ্যবাহী মিষ্টি ভান্ডার",
+      "nameEn": "Bhawal Mishti Mukh Sweetmeat",
+      "categoryId": "bakery",
+      "categoryLabelBn": "মিষ্টি ও বেকারি",
+      "subCategoryBn": "ছানার মিষ্টি, রসমালাই ও খাঁটি দই",
+      "subCategoryTag": "ঐতিহ্যবাহী মিষ্টি",
+      "rating": 4.8,
+      "reviewCount": 142,
+      "ratingBreakdown": {
+        "1": 0,
+        "2": 2,
+        "3": 6,
+        "4": 24,
+        "5": 110
+      },
+      "priceRange": "৳৳",
+      "avgPrice": 280,
+      "addressBn": "কলেজ রোড মোড়, ভাওয়াল মির্জাপুর বাজার, গাজীপুর",
+      "landmarkBn": "মির্জাপুর কেন্দ্রীয় জামে মসজিদের বিপরীতে",
+      "distanceMeter": 80,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৭:০০ - রাত ১০:০০",
+      "phone": "01712-456789",
+      "whatsapp": "8801712456789",
+      "featuredDishBn": "স্পেশাল মালাই চমচম ও ক্ষীরদই",
+      "featuredDishPrice": 380,
+      "coverImage": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "যাচাইকৃত স্বত্বাধিকারী",
+        "৫০ বছরের ঐতিহ্য",
+        "খাঁটি গাভীর দুধ"
+      ],
+      "descriptionBn": "ভাওয়াল মির্জাপুরের অন্যতম প্রাচীন ও সুনামধন্য মিষ্টির দোকান। প্রতিদিন সকালের তাজা গাভীর খাঁটি দুধ দিয়ে তৈরি স্পেশাল ক্ষীরচমচম, রসগোল্লা, কাঁচাগোল্লা ও বগুড়ার স্টাইলের সরভাজা দই।",
+      "highlightsBn": [
+        "তাজা দুধে প্রস্তুত",
+        "প্যাকেটজাত উপহার মিষ্টি",
+        "অনুষ্ঠানের স্পেশাল অর্ডার"
+      ],
+      "cubeColor": "#F59E0B",
+      "cubeAccent": "#D97706",
+      "voxelCoords": [
+        0,
+        0,
+        0
+      ],
+      "keywords": [
+        "sweet",
+        "mishti",
+        "doi",
+        "chomchom",
+        "curd",
+        "bakery",
+        "মিষ্টি",
+        "দই",
+        "চমচম",
+        "ভাওয়াল"
+      ],
+      "isVerified": true,
+      "provenance": "verified_merchant",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.0394,
+        "lng": 90.3582
+      },
+      "lastVerifiedAt": "2026-03-15",
+      "claimStatus": "claimed",
+      "ownerName": "হাজী রফিকুল ইসলাম",
+      "ownerPhone": "01712456789",
+      "tradeLicenseNo": "TRAD-GZP-MZP-2024-0012",
+      "menuItems": [
+        {
+          "id": "mm-1",
+          "nameBn": "স্পেশাল মালাই চমচম (১ কেজি)",
+          "nameEn": "Special Malai Chomchom 1kg",
+          "price": 420,
+          "portion": "১ কেজি বাক্স",
+          "image": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=600&auto=format&fit=crop"
+        },
+        {
+          "id": "mm-2",
+          "nameBn": "হাঁড়ির ক্ষীর দই (১ কেজি)",
+          "nameEn": "Clay Pot Sweet Curd 1kg",
+          "price": 260,
+          "portion": "১ মাটির হাঁড়ি",
+          "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?q=80&w=600&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "bm-biz-02",
+      "nameBn": "আল-মদিনা রেস্তোরাঁ ও বিরিয়ানি হাউজ",
+      "nameEn": "Al-Madina Restaurant & Biryani House",
+      "categoryId": "restaurant",
+      "categoryLabelBn": "রেস্টুরেন্ট ও বিরিয়ানি",
+      "subCategoryBn": "কাচ্চি বিরিয়ানি, তেহারি ও মোরগ পোলাও",
+      "subCategoryTag": "খাসির কাচ্চি",
+      "rating": 4.7,
+      "reviewCount": 215,
+      "ratingBreakdown": {
+        "1": 1,
+        "2": 3,
+        "3": 8,
+        "4": 38,
+        "5": 165
+      },
+      "priceRange": "৳৳",
+      "avgPrice": 220,
+      "addressBn": "মেইন বাজার রোড, ডাকবাংলো মোড়, মির্জাপুর বাজার",
+      "landmarkBn": "জনতা ব্যাংকের ৫০ গজ পূর্বে",
+      "distanceMeter": 50,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ১১:০০ - রাত ১১:০০",
+      "phone": "01819-876543",
+      "whatsapp": "8801819876543",
+      "featuredDishBn": "স্পেশাল খাসির কাচ্চি বিরিয়ানি ও বোরহানি",
+      "featuredDishPrice": 260,
+      "coverImage": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?q=80&w=900&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "যাচাইকৃত প্রতিষ্ঠান",
+        "দেশি বাসমতী চাল",
+        "ঘি-র ঘ্রাণ"
+      ],
+      "descriptionBn": "ভাওয়াল মির্জাপুর বাজারের সবচেয়ে জনপ্রিয় বিরিয়ানি পয়েন্ট। খাঁটি গাভীর ঘি ও সুগন্ধি মসলায় রান্না খাসির দম কাচ্চি, বিফ তেহারি এবং ফ্রেশ বোরহানি। পরিবার নিয়ে বসার মনোরম পারিবারিক পরিবেশ।",
+      "highlightsBn": [
+        "পরিচ্ছন্ন পারিবারিক পরিবেশ",
+        "টেক-অ্যাওয়ে সার্ভিস",
+        "গরম গরম বোরহানি"
+      ],
+      "cubeColor": "#FF6A3D",
+      "cubeAccent": "#EA580C",
+      "voxelCoords": [
+        1.2,
+        0,
+        0.4
+      ],
+      "keywords": [
+        "biryani",
+        "kacchi",
+        "tehari",
+        "restaurant",
+        "food",
+        "কাচ্চি",
+        "বিরিয়ানি",
+        "খাবার",
+        "রেস্টুরেন্ট"
+      ],
+      "isVerified": true,
+      "provenance": "verified_merchant",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.039,
+        "lng": 90.3589
+      },
+      "lastVerifiedAt": "2026-03-18",
+      "claimStatus": "claimed",
+      "ownerName": "মো: জহিরুল ইসলাম",
+      "ownerPhone": "01819876543",
+      "tradeLicenseNo": "TRAD-GZP-MZP-2023-0189",
+      "menuItems": [
+        {
+          "id": "bir-1",
+          "nameBn": "খাসির শাহী কাচ্চি বিরিয়ানি (হাফ)",
+          "nameEn": "Mutton Shahi Kacchi Half",
+          "price": 240,
+          "portion": "১ প্লেট + ১ আলু + খাসির টুকরো",
+          "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?q=80&w=600&auto=format&fit=crop"
+        },
+        {
+          "id": "bir-2",
+          "nameBn": "সরিষার তেলে বিফ তেহারি",
+          "nameEn": "Mustard Oil Beef Tehari",
+          "price": 180,
+          "portion": "১ প্লেট",
+          "image": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?q=80&w=600&auto=format&fit=crop"
+        }
+      ]
+    },
+    {
+      "id": "bm-biz-03",
+      "nameBn": "মির্জাপুর কেন্দ্রীয় ফার্মেসি ও হেলথ কেয়ার",
+      "nameEn": "Mirzapur Central Pharmacy & Healthcare",
+      "categoryId": "pharmacy",
+      "categoryLabelBn": "ফার্মেসি ও ঔষধ",
+      "subCategoryBn": "জরুরি জীবনরক্ষাকারী ঔষধ ও ডায়াবেটিস টেস্ট",
+      "subCategoryTag": "২৪ ঘণ্টা খোলা",
+      "rating": 4.9,
+      "reviewCount": 189,
+      "ratingBreakdown": {
+        "1": 0,
+        "2": 0,
+        "3": 4,
+        "4": 25,
+        "5": 160
+      },
+      "priceRange": "৳",
+      "avgPrice": 150,
+      "addressBn": "হাসপাতাল রোড, ভাওয়াল মির্জাপুর উপ-স্বাস্থ্য কেন্দ্রের কাছে",
+      "landmarkBn": "সরকারি উপ-স্বাস্থ্য কেন্দ্রের প্রধান ফটকের পাশে",
+      "distanceMeter": 120,
+      "isOpen": true,
+      "openingHoursBn": "২৪ ঘণ্টা খোলা",
+      "phone": "01715-998877",
+      "whatsapp": "8801715998877",
+      "featuredDishBn": "২৪/৭ ফ্রি ব্লাড প্রেশার ও সুগার স্ক্রিনিং",
+      "featuredDishPrice": 0,
+      "coverImage": "https://images.unsplash.com/photo-1586015555751-63c2999e4698?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1586015555751-63c2999e4698?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "যাচাইকৃত রেজিস্টার্ড ড্রাগিস্ট",
+        "ফার্মাসিস্ট উপস্থিতি",
+        "ইনসুলিন কুল স্টোরেজ"
+      ],
+      "descriptionBn": "ভাওয়াল মির্জাপুর বাজারের সবচেয়ে নির্ভরযোগ্য মডেল ফার্মেসি। সকল প্রকার সরকারি ও আন্তর্জাতিক মানের জীবনরক্ষাকারী ঔষধ, ইনসুলিন, প্রেসার মাপার ব্যবস্থা এবং হুইলচেয়ার/নেবুলাইজার সেবা।",
+      "highlightsBn": [
+        "সার্বক্ষণিক ফার্মাসিস্ট",
+        "ফ্রি ব্লাড প্রেসার চেক",
+        "হোম ডেলিভারি"
+      ],
+      "cubeColor": "#EF4444",
+      "cubeAccent": "#DC2626",
+      "voxelCoords": [
+        -1.2,
+        0,
+        0.8
+      ],
+      "keywords": [
+        "medicine",
+        "pharmacy",
+        "doctor",
+        "insulin",
+        "health",
+        "ঔষধ",
+        "ফার্মেসি",
+        "ডাক্তার",
+        "প্রেসার"
+      ],
+      "isVerified": true,
+      "provenance": "verified_merchant",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.0375,
+        "lng": 90.3568
+      },
+      "lastVerifiedAt": "2026-03-20",
+      "claimStatus": "claimed",
+      "ownerName": "ফার্মাসিস্ট মো: শফিকুল আলম",
+      "ownerPhone": "01715998877",
+      "tradeLicenseNo": "DRUG-GZP-88432"
+    },
+    {
+      "id": "bm-biz-04",
+      "nameBn": "মা মনি জেনারেল স্টোর ও ডিপার্টমেন্টাল মার্ট",
+      "nameEn": "Ma Moni General Store & Mart",
+      "categoryId": "grocery",
+      "categoryLabelBn": "মুদি ও সুপারশপ",
+      "subCategoryBn": "চাল, ডাল, তেল, গুঁড়োদুধ ও প্রসাধন সামগ্রী",
+      "subCategoryTag": "পাইকারি ও খুচরা",
+      "rating": 4.6,
+      "reviewCount": 94,
+      "ratingBreakdown": {
+        "1": 0,
+        "2": 1,
+        "3": 5,
+        "4": 20,
+        "5": 68
+      },
+      "priceRange": "৳৳",
+      "avgPrice": 350,
+      "addressBn": "বাজার গলি, মির্জাপুর সেন্ট্রাল মার্কেট নিচতলা",
+      "landmarkBn": "বড় খেয়াঘাট মোড়ের মুখে",
+      "distanceMeter": 110,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৭:৩০ - রাত ১০:৩০",
+      "phone": "01912-334455",
+      "whatsapp": "8801912334455",
+      "featuredDishBn": "খাঁটি সরিষার ঘানির তেল ও নাজিরশাইল চাল",
+      "featuredDishPrice": 480,
+      "coverImage": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1578916171728-46686eac8d58?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "ন্যায্য মূল্য",
+        "তাজা খাদ্যপণ্য",
+        "ডিজিটাল ওজন মাপক"
+      ],
+      "descriptionBn": "নিত্যপ্রয়োজনীয় সকল মুদি পণ্য, দেশি মসলা, তাজা সরিষার তেল, মিনিকেট ও নাজিরশাইল চাল এবং গৃহস্থালি পরিচ্ছন্নতার সামগ্রী সুলভ মূল্যে নিশ্চিত করে।",
+      "highlightsBn": [
+        "ন্যায্য মূল্যে বিক্রয়",
+        "সরাসরি ঘানির তেল",
+        "মোবাইল অর্ডারে প্যাকেট"
+      ],
+      "cubeColor": "#10B981",
+      "cubeAccent": "#059669",
+      "voxelCoords": [
+        0.6,
+        0,
+        -1.2
+      ],
+      "keywords": [
+        "grocery",
+        "chal",
+        "dal",
+        "oil",
+        "mudi",
+        "চাল",
+        "ডাল",
+        "মুদি",
+        "বাজার"
+      ],
+      "isVerified": true,
+      "provenance": "verified_merchant",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.0382,
+        "lng": 90.3575
+      },
+      "lastVerifiedAt": "2026-03-10",
+      "claimStatus": "claimed",
+      "ownerName": "আবুল কাসেম মিয়া",
+      "ownerPhone": "01912334455",
+      "tradeLicenseNo": "TRAD-GZP-MZP-2022-0455"
+    },
+    {
+      "id": "bm-biz-05",
+      "nameBn": "ভাওয়াল ক্লথ স্টোর ও জামদানি বিতান",
+      "nameEn": "Bhawal Cloth Store & Jamdani House",
+      "categoryId": "clothing",
+      "categoryLabelBn": "পোশাক ও ফ্যাশন",
+      "subCategoryBn": "তাঁতের শাড়ি, পাঞ্জাবি ও বিয়ের শেরওয়ানি",
+      "subCategoryTag": "ঐতিহ্যবাহী জামদানি",
+      "rating": 4.7,
+      "reviewCount": 76,
+      "ratingBreakdown": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 16,
+        "5": 55
+      },
+      "priceRange": "৳৳৳",
+      "avgPrice": 1200,
+      "addressBn": "কলেজ রোড শপিং কমপ্লেক্স, ২য় তলা, মির্জাপুর",
+      "landmarkBn": "ভাওয়াল মির্জাপুর কলেজের মেইন গেট সংলগ্ন",
+      "distanceMeter": 240,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৯:৩০ - রাত ৯:৩০",
+      "phone": "01723-112233",
+      "whatsapp": "8801723112233",
+      "featuredDishBn": "হাতে বোনা পিওর কটন জামদানি ও সেমি-তসর শাড়ি",
+      "featuredDishPrice": 2800,
+      "coverImage": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "তাঁতিদের সরাসরি শাড়ি",
+        "ঈদ কালেকশন",
+        "নিখুঁত কারুকাজ"
+      ],
+      "descriptionBn": "ভাওয়াল মির্জাপুর ও পার্শ্ববর্তী এলাকার ক্রেতাদের জন্য সেরা তাঁত ও জামদানি শাড়ির সমাহার। পুরুষদের সুতি ও সিল্ক পাঞ্জাবি, পায়জামা এবং বিয়ের এক্সক্লুসিভ পোশাক।",
+      "highlightsBn": [
+        "আসল রূপগঞ্জ ও টাঙ্গাইল তাঁত",
+        "কাস্টম সাইজ ফিটিং",
+        "ফিক্সড ও পাইকারি দর"
+      ],
+      "cubeColor": "#EC4899",
+      "cubeAccent": "#DB2777",
+      "voxelCoords": [
+        -0.8,
+        0,
+        1.4
+      ],
+      "keywords": [
+        "cloth",
+        "saree",
+        "panjabi",
+        "jamdani",
+        "পোশাক",
+        "শাড়ি",
+        "পাঞ্জাবি",
+        "জামদানি"
+      ],
+      "isVerified": true,
+      "provenance": "verified_merchant",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.0418,
+        "lng": 90.3578
+      },
+      "lastVerifiedAt": "2026-03-12",
+      "claimStatus": "claimed",
+      "ownerName": "মো: নুরুল হক",
+      "ownerPhone": "01723112233",
+      "tradeLicenseNo": "TRAD-GZP-MZP-2023-0871"
+    },
+    {
+      "id": "bm-biz-06",
+      "nameBn": "শাওন টেলিকম ও ইলেকট্রনিক্স হাব",
+      "nameEn": "Shaon Telecom & Electronics Hub",
+      "categoryId": "electronics",
+      "categoryLabelBn": "ইলেকট্রনিক্স ও মোবাইল",
+      "subCategoryBn": "স্মার্টফোন বিক্রয়, সার্ভিসিং ও গ্যাজেট সামগ্রী",
+      "subCategoryTag": "অফিসিয়াল গ্যাজেট",
+      "rating": 4.8,
+      "reviewCount": 164,
+      "ratingBreakdown": {
+        "1": 0,
+        "2": 1,
+        "3": 5,
+        "4": 28,
+        "5": 130
+      },
+      "priceRange": "৳৳",
+      "avgPrice": 850,
+      "addressBn": "ডাকবাংলো মোড়, মির্জাপুর বাজার",
+      "landmarkBn": "ইউনিয়ন পরিষদের সামনে",
+      "distanceMeter": 95,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৯:০০ - রাত ১০:০০",
+      "phone": "01611-223344",
+      "whatsapp": "8801611223344",
+      "featuredDishBn": "দ্রুততম সময়ে স্মার্টফোন ডিসপ্লে ও ব্যাটারি প্রতিস্থাপন",
+      "featuredDishPrice": 750,
+      "coverImage": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "মাস্টার টেকনিশিয়ান",
+        "অরিজিনাল পার্টস",
+        "বিকাশ ও নগদ এজেন্ট"
+      ],
+      "descriptionBn": "সকল ব্র্যান্ডের মোবাইল এক্সেসরিজ, ব্লুটুথ হেডফোন, পাওয়ারব্যাংক এবং দক্ষ কারিগর দ্বারা নির্ভরযোগ্য মেরামত সেবা। ইনস্ট্যান্ট বিকাশ, নগদ ও রিচার্জ সুবিধা।",
+      "highlightsBn": [
+        "১ ঘণ্টার মধ্যে সার্ভিসিং",
+        "অরিজিনাল ওয়্যারেন্টি পার্টস",
+        "মোবাইল ব্যাংকিং সেবা"
+      ],
+      "cubeColor": "#3B82F6",
+      "cubeAccent": "#2563EB",
+      "voxelCoords": [
+        1.4,
+        0,
+        -0.6
+      ],
+      "keywords": [
+        "mobile",
+        "repair",
+        "charger",
+        "gadget",
+        "মোবাইল",
+        "চার্জার",
+        "সার্ভিসিং",
+        "ইলেকট্রনিক্স"
+      ],
+      "isVerified": true,
+      "provenance": "verified_merchant",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.0398,
+        "lng": 90.3592
+      },
+      "lastVerifiedAt": "2026-03-21",
+      "claimStatus": "claimed",
+      "ownerName": "শাওন মাহমুদ",
+      "ownerPhone": "01611223344",
+      "tradeLicenseNo": "TRAD-GZP-MZP-2024-0312"
+    },
+    {
+      "id": "bm-biz-07",
+      "nameBn": "সততা এগ্রো ও হার্ডওয়্যার মার্ট",
+      "nameEn": "Sotota Agro & Hardware Mart",
+      "categoryId": "hardware",
+      "categoryLabelBn": "হার্ডওয়্যার ও কৃষি",
+      "subCategoryBn": "কীটনাশক, সার, পানির মোটর ও ইলেকট্রিক তার",
+      "subCategoryTag": "কৃষি যন্ত্রপাতি",
+      "rating": 4.5,
+      "reviewCount": 58,
+      "ratingBreakdown": {
+        "1": 0,
+        "2": 1,
+        "3": 4,
+        "4": 15,
+        "5": 38
+      },
+      "priceRange": "৳৳",
+      "avgPrice": 650,
+      "addressBn": "বড় খেয়াঘাট রোড, মির্জাপুর বাজার",
+      "landmarkBn": "তুরাগ নদী খেয়াঘাটের কাছে",
+      "distanceMeter": 170,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৮:০০ - রাত ৮:৩০",
+      "phone": "01718-445566",
+      "whatsapp": "8801718445566",
+      "featuredDishBn": "গাজী পাম্প ১ এইচপি পানির মোটর ও সাবমারসিবল কেবল",
+      "featuredDishPrice": 6200,
+      "coverImage": "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "অনুমোদিত ডিলার",
+        "কৃষি পরামর্শ কেন্দ্র",
+        "কোয়ালিটি গ্যারান্টি"
+      ],
+      "descriptionBn": "কৃষক ভাইদের জন্য সরকার অনুমোদিত সার, বীজ ও বালাইনাশক। এছাড়া টিউবওয়েল ফিটিংস, পিভিসি পাইপ ও ইলেকট্রিক ওয়ারিংয়ের নির্ভরযোগ্য প্রতিষ্ঠান।",
+      "highlightsBn": [
+        "সরকার অনুমোদিত ডিলার",
+        "ফ্রি কৃষি পরামর্শ",
+        "হোম ডেলিভারি"
+      ],
+      "cubeColor": "#64748B",
+      "cubeAccent": "#475569",
+      "voxelCoords": [
+        -1.4,
+        0,
+        -1
+      ],
+      "keywords": [
+        "hardware",
+        "agro",
+        "fertilizer",
+        "pipe",
+        "সার",
+        "বীজ",
+        "কীটনাশক",
+        "হার্ডওয়্যার",
+        "কৃষি"
+      ],
+      "isVerified": true,
+      "provenance": "verified_merchant",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.0366,
+        "lng": 90.3558
+      },
+      "lastVerifiedAt": "2026-03-16",
+      "claimStatus": "claimed",
+      "ownerName": "মো: আব্দুল মতিন",
+      "ownerPhone": "01718445566",
+      "tradeLicenseNo": "AGRO-GZP-MZP-2021-0089"
+    },
+    {
+      "id": "bm-biz-08",
+      "nameBn": "জনতা ব্যাংক লিমিটেড — মির্জাপুর শাখা",
+      "nameEn": "Janata Bank PLC — Mirzapur Branch",
+      "categoryId": "service",
+      "categoryLabelBn": "ব্যাংক ও আর্থিক সেবা",
+      "subCategoryBn": "সরকারি ব্যাংক সেবা, রেমিট্যান্স ও একাউন্ট ওপেনিং",
+      "subCategoryTag": "আর্থিক প্রতিষ্ঠান",
+      "rating": 4.4,
+      "reviewCount": 82,
+      "ratingBreakdown": {
+        "1": 1,
+        "2": 3,
+        "3": 8,
+        "4": 25,
+        "5": 45
+      },
+      "priceRange": "৳",
+      "avgPrice": 0,
+      "addressBn": "ডাকবাংলো মোড়, মির্জাপুর বাজার, গাজীপুর সদর",
+      "landmarkBn": "মির্জাপুর বাজার চৌরাস্তা",
+      "distanceMeter": 60,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ১০:০০ - বিকাল ৩:৩০ (রবি-বৃহঃ)",
+      "phone": "02-9204011",
+      "whatsapp": "",
+      "featuredDishBn": "প্রবাসী রেমিট্যান্স তাৎক্ষণিক প্রদান ও সঞ্চয়ী হিসাব",
+      "featuredDishPrice": 0,
+      "coverImage": "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1541354329998-f4d9a9f9297f?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "রাষ্ট্রায়ত্ত ব্যাংক",
+        "অনলাইন ব্যাংকিং",
+        "রেমিট্যান্স হেল্পডেস্ক"
+      ],
+      "descriptionBn": "ভাওয়াল মির্জাপুর ও সন্নিহিত এলাকার বাসিন্দাদের নির্ভরযোগ্য ব্যাংকিং পার্টনার। প্রবাসী আয়ের নগদ উত্তোলন, কৃষক ঋণ ও ক্ষুদ্র ব্যবসা ঋণ সুবিধা।",
+      "highlightsBn": [
+        "দ্রুত রেমিট্যান্স প্রদান",
+        "কৃষি ঋণ সহায়তা",
+        "নিরাপদ লকার সেবা"
+      ],
+      "cubeColor": "#0284C7",
+      "cubeAccent": "#0369A1",
+      "voxelCoords": [
+        0.8,
+        0,
+        1
+      ],
+      "keywords": [
+        "bank",
+        "money",
+        "remittance",
+        "janata",
+        "ব্যাংক",
+        "টাকা",
+        "রেমিট্যান্স",
+        "হিসাব"
+      ],
+      "isVerified": true,
+      "provenance": "field_survey",
+      "verificationStatus": "verified",
+      "coordinates": {
+        "lat": 24.0388,
+        "lng": 90.358
+      },
+      "lastVerifiedAt": "2026-03-01",
+      "claimStatus": "claimed"
+    },
+    {
+      "id": "osm-node-98112341",
+      "nameBn": "বিসমিল্লাহ ড্রাগ হাউস",
+      "nameEn": "Bismillah Drug House",
+      "categoryId": "pharmacy",
+      "categoryLabelBn": "ফার্মেসি ও ঔষধ",
+      "subCategoryBn": "ওষুধের দোকান",
+      "subCategoryTag": "pharmacy",
+      "rating": 4.5,
+      "reviewCount": 12,
+      "priceRange": "৳৳",
+      "avgPrice": 200,
+      "addressBn": "College Road, ভাওয়াল মির্জাপুর",
+      "landmarkBn": "ভাওয়াল মির্জাপুর বাজার এলাকা",
+      "distanceMeter": 124,
+      "isOpen": true,
+      "openingHoursBn": "08:00-22:00",
+      "phone": "01711-223388",
+      "coverImage": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "ওপেনস্ট্রিটম্যাপ উৎস",
+        "যাচাইযোগ্য"
+      ],
+      "descriptionBn": "ওপেনস্ট্রিটম্যাপ (OSM ID: 98112341) ডাটাবেজ থেকে সংগৃহীত। ভাওয়াল মির্জাপুর বাজারের অবস্থান। স্বত্বাধিকারী ক্লেইম করে তথ্য আপডেট করতে পারেন।",
+      "highlightsBn": [
+        "ওপেন ডাটাবেজ উৎস",
+        "ম্যাপ লোকেশন সংযুক্ত"
+      ],
+      "cubeColor": "#EF4444",
+      "cubeAccent": "#EF4444",
+      "voxelCoords": [
+        0,
+        0,
+        0
+      ],
+      "keywords": [
+        "বিসমিল্লাহ ড্রাগ হাউস",
+        "মির্জাপুর",
+        "গাজীপুর",
+        "pharmacy",
+        ""
+      ],
+      "isVerified": false,
+      "provenance": "openstreetmap",
+      "verificationStatus": "unverified_osm",
+      "coordinates": {
+        "lat": 24.0381,
+        "lng": 90.3587
+      },
+      "osmId": 98112341,
+      "osmType": "node",
+      "osmTags": {
+        "amenity": "pharmacy",
+        "name": "Bismillah Drug House",
+        "name:bn": "বিসমিল্লাহ ড্রাগ হাউস",
+        "phone": "01711-223388",
+        "opening_hours": "08:00-22:00",
+        "addr:street": "College Road"
+      },
+      "claimStatus": "unclaimed"
+    },
+    {
+      "id": "osm-node-98112342",
+      "nameBn": "তামান্না লেডিস টেইলার্স ও ফেব্রিক্স",
+      "nameEn": "Tamanna Ladies Tailors",
+      "categoryId": "clothing",
+      "categoryLabelBn": "পোশাক ও ফ্যাশন",
+      "subCategoryBn": "কাপড়ের দোকান ও টেইলার্স",
+      "subCategoryTag": "clothes",
+      "rating": 4.5,
+      "reviewCount": 12,
+      "priceRange": "৳৳",
+      "avgPrice": 200,
+      "addressBn": "Main Bazar, ভাওয়াল মির্জাপুর",
+      "landmarkBn": "ভাওয়াল মির্জাপুর বাজার এলাকা",
+      "distanceMeter": 68,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৮:০০ - রাত ৯:০০",
+      "phone": "01812-998811",
+      "coverImage": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "ওপেনস্ট্রিটম্যাপ উৎস",
+        "যাচাইযোগ্য"
+      ],
+      "descriptionBn": "ওপেনস্ট্রিটম্যাপ (OSM ID: 98112342) ডাটাবেজ থেকে সংগৃহীত। ভাওয়াল মির্জাপুর বাজারের অবস্থান। স্বত্বাধিকারী ক্লেইম করে তথ্য আপডেট করতে পারেন।",
+      "highlightsBn": [
+        "ওপেন ডাটাবেজ উৎস",
+        "ম্যাপ লোকেশন সংযুক্ত"
+      ],
+      "cubeColor": "#EC4899",
+      "cubeAccent": "#EC4899",
+      "voxelCoords": [
+        0,
+        0,
+        0
+      ],
+      "keywords": [
+        "তামান্না লেডিস টেইলার্স ও ফেব্রিক্স",
+        "মির্জাপুর",
+        "গাজীপুর",
+        "",
+        "clothes"
+      ],
+      "isVerified": false,
+      "provenance": "openstreetmap",
+      "verificationStatus": "unverified_osm",
+      "coordinates": {
+        "lat": 24.0396,
+        "lng": 90.359
+      },
+      "osmId": 98112342,
+      "osmType": "node",
+      "osmTags": {
+        "shop": "clothes",
+        "name": "Tamanna Ladies Tailors",
+        "name:bn": "তামান্না লেডিস টেইলার্স ও ফেব্রিক্স",
+        "phone": "01812-998811",
+        "addr:street": "Main Bazar"
+      },
+      "claimStatus": "unclaimed"
+    },
+    {
+      "id": "osm-node-98112343",
+      "nameBn": "ঘরোয়া রেস্তোরাঁ ও ফাস্ট ফুড",
+      "nameEn": "Ghoroa Restaurant & Fast Food",
+      "categoryId": "restaurant",
+      "categoryLabelBn": "রেস্টুরেন্ট ও খাবার",
+      "subCategoryBn": "হোটেল ও রেস্তোরাঁ",
+      "subCategoryTag": "restaurant",
+      "rating": 4.5,
+      "reviewCount": 12,
+      "priceRange": "৳৳",
+      "avgPrice": 200,
+      "addressBn": "College Road, ভাওয়াল মির্জাপুর",
+      "landmarkBn": "ভাওয়াল মির্জাপুর বাজার এলাকা",
+      "distanceMeter": 127,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৮:০০ - রাত ৯:০০",
+      "phone": "01911-332244",
+      "coverImage": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "ওপেনস্ট্রিটম্যাপ উৎস",
+        "যাচাইযোগ্য"
+      ],
+      "descriptionBn": "ওপেনস্ট্রিটম্যাপ (OSM ID: 98112343) ডাটাবেজ থেকে সংগৃহীত। ভাওয়াল মির্জাপুর বাজারের অবস্থান। স্বত্বাধিকারী ক্লেইম করে তথ্য আপডেট করতে পারেন।",
+      "highlightsBn": [
+        "ওপেন ডাটাবেজ উৎস",
+        "ম্যাপ লোকেশন সংযুক্ত"
+      ],
+      "cubeColor": "#FF6A3D",
+      "cubeAccent": "#FF6A3D",
+      "voxelCoords": [
+        0,
+        0,
+        0
+      ],
+      "keywords": [
+        "ঘরোয়া রেস্তোরাঁ ও ফাস্ট ফুড",
+        "মির্জাপুর",
+        "গাজীপুর",
+        "restaurant",
+        ""
+      ],
+      "isVerified": false,
+      "provenance": "openstreetmap",
+      "verificationStatus": "unverified_osm",
+      "coordinates": {
+        "lat": 24.0402,
+        "lng": 90.3579
+      },
+      "osmId": 98112343,
+      "osmType": "node",
+      "osmTags": {
+        "amenity": "restaurant",
+        "name": "Ghoroa Restaurant & Fast Food",
+        "name:bn": "ঘরোয়া রেস্তোরাঁ ও ফাস্ট ফুড",
+        "phone": "01911-332244",
+        "addr:street": "College Road"
+      },
+      "claimStatus": "unclaimed"
+    },
+    {
+      "id": "osm-node-98112344",
+      "nameBn": "রনি স্টোর ও কনফেকশনারি",
+      "nameEn": "Roni Store",
+      "categoryId": "grocery",
+      "categoryLabelBn": "মুদি ও জেনারেল স্টোর",
+      "subCategoryBn": "নিত্যপ্রয়োজনীয় মুদি পণ্য",
+      "subCategoryTag": "supermarket",
+      "rating": 4.5,
+      "reviewCount": 12,
+      "priceRange": "৳৳",
+      "avgPrice": 200,
+      "addressBn": "Hospital Road, ভাওয়াল মির্জাপুর",
+      "landmarkBn": "ভাওয়াল মির্জাপুর বাজার এলাকা",
+      "distanceMeter": 281,
+      "isOpen": true,
+      "openingHoursBn": "সকাল ৮:০০ - রাত ৯:০০",
+      "phone": "01716-554433",
+      "coverImage": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?q=80&w=900&auto=format&fit=crop"
+      ],
+      "badges": [
+        "ওপেনস্ট্রিটম্যাপ উৎস",
+        "যাচাইযোগ্য"
+      ],
+      "descriptionBn": "ওপেনস্ট্রিটম্যাপ (OSM ID: 98112344) ডাটাবেজ থেকে সংগৃহীত। ভাওয়াল মির্জাপুর বাজারের অবস্থান। স্বত্বাধিকারী ক্লেইম করে তথ্য আপডেট করতে পারেন।",
+      "highlightsBn": [
+        "ওপেন ডাটাবেজ উৎস",
+        "ম্যাপ লোকেশন সংযুক্ত"
+      ],
+      "cubeColor": "#10B981",
+      "cubeAccent": "#10B981",
+      "voxelCoords": [
+        0,
+        0,
+        0
+      ],
+      "keywords": [
+        "রনি স্টোর ও কনফেকশনারি",
+        "মির্জাপুর",
+        "গাজীপুর",
+        "",
+        "supermarket"
+      ],
+      "isVerified": false,
+      "provenance": "openstreetmap",
+      "verificationStatus": "unverified_osm",
+      "coordinates": {
+        "lat": 24.0378,
+        "lng": 90.3562
+      },
+      "osmId": 98112344,
+      "osmType": "node",
+      "osmTags": {
+        "shop": "supermarket",
+        "name": "Roni Store",
+        "name:bn": "রনি স্টোর ও কনফেকশনারি",
+        "phone": "01716-554433",
+        "addr:street": "Hospital Road"
+      },
+      "claimStatus": "unclaimed"
+    }
+  ],
+  "claims": [
+    {
+      "id": "claim-101",
+      "businessId": "bm-biz-01",
+      "businessNameBn": "ভাওয়াল মিষ্টি মুখ",
+      "applicantName": "হাজী রফিকুল ইসলাম",
+      "applicantPhone": "01712456789",
+      "applicantRole": "owner",
+      "tradeLicenseOrNid": "TRAD-GZP-MZP-2024-0012",
+      "notes": "দোকানের ট্রেড লাইসেন্স কপি সংরক্ষিত আছে।",
+      "status": "approved",
+      "createdAt": "2026-03-14T10:00:00Z",
+      "reviewedAt": "2026-03-15T12:00:00Z"
+    }
+  ],
+  "lastOsmSyncTime": "2026-10-24T12:21:21.554Z",
+  "auditLogs": [
+    {
+      "timestamp": "2026-10-24T12:21:21.554Z",
+      "action": "OSM_SYNC_COMPLETED",
+      "details": "ওপেনস্ট্রিটম্যাপ সিঙ্ক সম্পন্ন। নতুন যুক্ত: 4, আপডেট: 0"
+    },
+    {
+      "timestamp": "2026-10-24T12:20:53.745Z",
+      "action": "DB_INITIALIZED",
+      "details": "ভাওয়াল মির্জাপুর বাজার (গাজীপুর) ডাটাবেজ প্রাথমিক ৮টি যাচাইকৃত কেন্দ্র দিয়ে শুরু করা হলো।"
+    }
+  ]
+}

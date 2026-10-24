@@ -1,0 +1,6 @@
+{
+  "name": "মির্জাপুর | Mirzapur — 3D Local Marketplace",
+  "description": "ভাওয়াল মির্জাপুর বাজার (গাজীপুর)-এর সেরা দোকান, রেস্তোরাঁ ও স্থানীয় সেবার প্রিমিয়াম ৩ডি ডিসকভারি প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
